@@ -1,0 +1,15 @@
+/Users/nicholas/Dev/csharp/SimorghNest/intermediate_csharp/classes_01/bin/Debug/net8.0/classes_01
+/Users/nicholas/Dev/csharp/SimorghNest/intermediate_csharp/classes_01/bin/Debug/net8.0/classes_01.deps.json
+/Users/nicholas/Dev/csharp/SimorghNest/intermediate_csharp/classes_01/bin/Debug/net8.0/classes_01.runtimeconfig.json
+/Users/nicholas/Dev/csharp/SimorghNest/intermediate_csharp/classes_01/bin/Debug/net8.0/classes_01.dll
+/Users/nicholas/Dev/csharp/SimorghNest/intermediate_csharp/classes_01/bin/Debug/net8.0/classes_01.pdb
+/Users/nicholas/Dev/csharp/SimorghNest/intermediate_csharp/classes_01/obj/Debug/net8.0/classes_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholas/Dev/csharp/SimorghNest/intermediate_csharp/classes_01/obj/Debug/net8.0/classes_01.AssemblyInfoInputs.cache
+/Users/nicholas/Dev/csharp/SimorghNest/intermediate_csharp/classes_01/obj/Debug/net8.0/classes_01.AssemblyInfo.cs
+/Users/nicholas/Dev/csharp/SimorghNest/intermediate_csharp/classes_01/obj/Debug/net8.0/classes_01.csproj.CoreCompileInputs.cache
+/Users/nicholas/Dev/csharp/SimorghNest/intermediate_csharp/classes_01/obj/Debug/net8.0/classes_01.sourcelink.json
+/Users/nicholas/Dev/csharp/SimorghNest/intermediate_csharp/classes_01/obj/Debug/net8.0/classes_01.dll
+/Users/nicholas/Dev/csharp/SimorghNest/intermediate_csharp/classes_01/obj/Debug/net8.0/refint/classes_01.dll
+/Users/nicholas/Dev/csharp/SimorghNest/intermediate_csharp/classes_01/obj/Debug/net8.0/classes_01.pdb
+/Users/nicholas/Dev/csharp/SimorghNest/intermediate_csharp/classes_01/obj/Debug/net8.0/classes_01.genruntimeconfig.cache
+/Users/nicholas/Dev/csharp/SimorghNest/intermediate_csharp/classes_01/obj/Debug/net8.0/ref/classes_01.dll
