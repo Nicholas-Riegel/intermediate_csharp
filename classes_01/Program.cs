@@ -20,7 +20,7 @@
 // Console.WriteLine($"teamB name is: {teamB.Name}"); //= "TeamB"
 
 // READONLY PROPERTIES
-PlayerClass player1 = new("John", true);
+PlayerClass player1 = new("John", "Doe", true);
 
-Console.WriteLine(player1.Name);
+Console.WriteLine(player1.FullName);
 Console.WriteLine(player1.IsCaptain);
